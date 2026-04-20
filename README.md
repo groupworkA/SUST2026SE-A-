@@ -35,10 +35,7 @@ It allows users to:
 
 ## How to Run
 1. Install Python 3.x
-2. pip install the following libraries:
-   - matplotlib
-   - networkx
-   
+    
 3. Run the program:
 
 ```bash
